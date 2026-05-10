@@ -1,0 +1,12 @@
+test: '2222222'
+token: 2e0c12a0e16378735270797482154edd-c-app
+feishu:
+  app_id: cli_a93f179d7461dceb
+  app_secret: rDbZQGVfPEEMKsHtwtchCegPGgCchpaw
+  receive_id: ou_d9fbb310298e41c201adf21a827f7437
+email:
+  host: smtp.qq.com
+  user: '2741023538@qq.com'
+  pass: 'epcxdrljnlrndhed'
+  sender: '2741023538@qq.com'
+  receivers: ['2741023538@qq.com']
