@@ -1,0 +1,13 @@
+token: your_api_token_here
+feishu:
+  app_id: your_feishu_app_id
+  app_secret: your_feishu_app_secret
+  receive_id: your_feishu_receive_id
+email:
+  host: smtp.qq.com
+  user: your_email@qq.com
+  pass: your_email_password
+  sender: your_email@qq.com
+  receivers:
+    - receiver1@example.com
+    - receiver2@example.com
